@@ -8,8 +8,6 @@ QQ 凶吉
 
 欢迎各位下载
 
-<a href="https://gitee.com/XiaoZhi_Studio/qqxiongji-api/stargazers"><img src="https://gitee.com/XiaoZhi_Studio/qqxiongji-api/badge/star.svg?theme=gvp"></a>
-
 返回示例（json）：
 
 ```
